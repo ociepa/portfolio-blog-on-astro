@@ -1,8 +1,13 @@
 ---
 title: Cheese, Bikes, Windmills
-date: 2024-04-01
-cover: alkmaar-portrait.jpg
-tags: [travel, landscape, city, portrait]
+excerpt: In my experimental (or bad photos) phase
+publishDate: 'Apr 1 2024'
+tags:
+  - travel
+seo:
+  image:
+    src: 'public/alkmaar-portrait.jpg'
+    alt: A person standing in a public square
 ---
 
 <!-- Headings -->
