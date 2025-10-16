@@ -39,9 +39,9 @@ export type SiteConfig = {
 };
 
 const siteConfig: SiteConfig = {
-    website: 'rafmakes.photos',
+    website: 'https://rafmakes.photos',
     title: 'Raf Makes Photos',
-    subtitle: 'Raf makes photos in various places aroudn the world',
+    subtitle: 'Raf makes photos in various places around the world',
     description: 'A personal blog and photo site',
     // image: {
     //     src: '/dante-preview.jpg',
