@@ -1,5 +1,5 @@
 {
-  "name": "dante-astro-theme",
+  "name": "raf-makes-photos",
   "type": "module",
   "version": "0.2.0",
   "scripts": {
@@ -25,7 +25,7 @@
     "prettier": "^3.5.3",
     "prettier-plugin-tailwindcss": "^0.6.11"
   },
-  "description": "Dante is a single-author blog and portfolio theme for Astro.js. Featuring a minimal, slick, responsive and content-focused design. For more Astro.js themes please check [justgoodui.com](https://justgoodui.com/).",
+  "description": "Raf takes photos in various places around the world",
   "main": "index.js",
   "repository": {
     "type": "git",
@@ -35,7 +35,7 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ociepa/portfolio-blog-on-astro/issues"
+    "url": "https://rafmakes.photos"
   },
-  "homepage": "https://github.com/ociepa/portfolio-blog-on-astro#readme"
+  "homepage": "https://rafmakes.photos"
 }
