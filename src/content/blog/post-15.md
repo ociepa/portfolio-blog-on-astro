@@ -22,75 +22,75 @@ On medium format, I had to shoot the Flexaret wide open, because Netherlands in 
 
 That said, our visit to the Keukenhof Gardens resulted in my significant other and myself being featured on German ZDF TV. We're stars now!
 While we were shooting this session, a TV crew filming their segment on the opening of the gardens noticed us and filmed a couple of seconds for their intro. Still counts!
-![](/IMG_8424.jpeg)
+![](/images/IMG_8424.jpeg)
 
 # Museums
 
 One of the things the Netherlands is famous for (apart from the cheese, the bikes, and polders, and the windmills) is the art. We had a chance to look at both the classics, and the more modern collections. And the museums themselves are often quite a sight.
 
-![](/IMG_4452.jpeg)
+![](/images/IMG_4452.jpeg)
 
-![](/IMG_4444.jpeg)
+![](/images/IMG_4444.jpeg)
 
-![](/nightwatch-crowd.jpg)
+![](/images/nightwatch-crowd.jpg)
 
-![](/modern-art-has400t.jpg)
+![](/images/modern-art-has400t.jpg)
 
 # Cheese!
 
-![](/cheeses-for-sales.jpeg)
+![](/images/cheeses-for-sales.jpeg)
 
 And the Alkmaar cheese market
 
-![](/IMG_8418.jpeg)
+![](/images/IMG_8418.jpeg)
 
-![](/IMG_8411.jpeg)
+![](/images/IMG_8411.jpeg)
 
-![](/IMG_8413.jpeg)
+![](/images/IMG_8413.jpeg)
 
-![](/IMG_8412.jpeg)
+![](/images/IMG_8412.jpeg)
 
-![](/alkmaar-portrait.jpg)
+![](/images/alkmaar-portrait.jpg)
 
 # Windmills and sundry architecture
 
-![](/windmills.jpg)
+![](/images/windmills.jpg)
 
-![](/always-sunny-in-amsterdam.jpeg)
+![](/images/always-sunny-in-amsterdam.jpeg)
 
-![](/6x6church.jpg)
+![](/images/6x6church.jpg)
 
-![](/IMG_4388.jpeg)
+![](/images/IMG_4388.jpeg)
 
-![](/lighthouse-has400t.jpg)
+![](/images/lighthouse-has400t.jpg)
 
-![](/amsterdam-corner.jpg)
+![](/images/amsterdam-corner.jpg)
 
-![](/fp4-architecture.jpg)
+![](/images/fp4-architecture.jpg)
 
-![](/IMG_4616.jpeg)
+![](/images/IMG_4616.jpeg)
 
-![](/harbor-tower.jpg)
+![](/images/harbor-tower.jpg)
 
-![](/rembrandt-wuz-here.jpeg)
+![](/images/rembrandt-wuz-here.jpeg)
 
-![](/IMG_4690.jpeg)
+![](/images/IMG_4690.jpeg)
 This was on an office building. I actually find this sentence a bit scary...
 
 # Tulips
 
-![](/two-lips-has-400t.jpg)
+![](/images/two-lips-has-400t.jpg)
 
-![](/IMG_8383.jpg)
+![](/images/IMG_8383.jpg)
 
 <!-- Images -->
 
-![](/cloudy-beach.jpg)
+![](/images/cloudy-beach.jpg)
 
-![](/ferry.jpg)
+![](/images/ferry.jpg)
 
-![](/bikes.jpg)
+![](/images/bikes.jpg)
 
-![](/IMG_4218.jpeg)
+![](/images/IMG_4218.jpeg)
 
-![](/IMG_4714.jpeg)
+![](/images/IMG_4714.jpeg)
