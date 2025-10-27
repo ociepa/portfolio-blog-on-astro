@@ -22,75 +22,75 @@ On medium format, I had to shoot the Flexaret wide open, because Netherlands in 
 
 That said, our visit to the Keukenhof Gardens resulted in my significant other and myself being featured on German ZDF TV. We're stars now!
 While we were shooting this session, a TV crew filming their segment on the opening of the gardens noticed us and filmed a couple of seconds for their intro. Still counts!
-![](/images/IMG_8424.jpeg)
+![](../../assets/IMG_8424.jpeg)
 
 # Museums
 
 One of the things the Netherlands is famous for (apart from the cheese, the bikes, and polders, and the windmills) is the art. We had a chance to look at both the classics, and the more modern collections. And the museums themselves are often quite a sight.
 
-![](/images/IMG_4452.jpeg)
+![](../../assets/IMG_4452.jpeg)
 
-![](/images/IMG_4444.jpeg)
+![](../../assets/IMG_4444.jpeg)
 
-![](/images/nightwatch-crowd.jpg)
+![](../../assets/nightwatch-crowd.jpg)
 
-![](/images/modern-art-has400t.jpg)
+![](../../assets/modern-art-has400t.jpg)
 
 # Cheese!
 
-![](/images/cheeses-for-sales.jpeg)
+![](../../assets/cheeses-for-sales.jpeg)
 
 And the Alkmaar cheese market
 
-![](/images/IMG_8418.jpeg)
+![](../../assets/IMG_8418.jpeg)
 
-![](/images/IMG_8411.jpeg)
+![](../../assets/IMG_8411.jpeg)
 
-![](/images/IMG_8413.jpeg)
+![](../../assets/IMG_8413.jpeg)
 
-![](/images/IMG_8412.jpeg)
+![](../../assets/IMG_8412.jpeg)
 
-![](/images/alkmaar-portrait.jpg)
+![](../../assets/alkmaar-portrait.jpg)
 
 # Windmills and sundry architecture
 
-![](/images/windmills.jpg)
+![](../../assets/windmills.jpg)
 
-![](/images/always-sunny-in-amsterdam.jpeg)
+![](../../assets/always-sunny-in-amsterdam.jpeg)
 
-![](/images/6x6church.jpg)
+![](../../assets/6x6church.jpg)
 
-![](/images/IMG_4388.jpeg)
+![](../../assets/IMG_4388.jpeg)
 
-![](/images/lighthouse-has400t.jpg)
+![](../../assets/lighthouse-has400t.jpg)
 
-![](/images/amsterdam-corner.jpg)
+![](../../assets/amsterdam-corner.jpg)
 
-![](/images/fp4-architecture.jpg)
+![](../../assets/fp4-architecture.jpg)
 
-![](/images/IMG_4616.jpeg)
+![](../../assets/IMG_4616.jpeg)
 
-![](/images/harbor-tower.jpg)
+![](../../assets/harbor-tower.jpg)
 
-![](/images/rembrandt-wuz-here.jpeg)
+![](../../assets/rembrandt-wuz-here.jpeg)
 
-![](/images/IMG_4690.jpeg)
+![](../../assets/IMG_4690.jpeg)
 This was on an office building. I actually find this sentence a bit scary...
 
 # Tulips
 
-![](/images/two-lips-has-400t.jpg)
+![](../../assets/two-lips-has-400t.jpg)
 
-![](/images/IMG_8383.jpg)
+![](../../assets/IMG_8383.jpg)
 
 <!-- Images -->
 
-![](/images/cloudy-beach.jpg)
+![](../../assets/cloudy-beach.jpg)
 
-![](/images/ferry.jpg)
+![](../../assets/ferry.jpg)
 
-![](/images/bikes.jpg)
+![](../../assets/bikes.jpg)
 
-![](/images/IMG_4218.jpeg)
+![](../../assets/IMG_4218.jpeg)
 
-![](/images/IMG_4714.jpeg)
+![](../../assets/IMG_4714.jpeg)
