@@ -54,7 +54,7 @@ const siteConfig: SiteConfig = {
         },
         {
             text: 'Portfolio',
-            href: '/Portfolio'
+            href: '/portfolio'
         },
         {
             text: 'Blog',
